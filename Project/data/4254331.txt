@@ -1,0 +1,56 @@
+405 (film)
+ 
+{{Infobox film
+| name           = 405
+| image          = 405moviePoster.jpg
+| image size     = 
+| alt            = 
+| caption        = Film Poster
+| director       = Bruce Branit Jeremy Hunt
+| producer       = 
+| writer         = Bruce Branit Jeremy Hunt
+| screenplay     = 
+| story          = 
+| based on       =  
+| narrator       = 
+| starring       = Jeremy Hunt Angela Burns Erin Kotecki
+| music          = Wayne Boon
+| cinematography = 
+| editing        = 
+| studio         = 
+| distributor    = 
+| released       =  
+| runtime        = 
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = 
+| preceded by    = 
+| followed by    = 
+}}
+405 is the name of a 3-minute film released in June 2000 and produced by Bruce Branit and Jeremy Hunt. It was the first short film to become widely distributed on the Internet and became a media sensation for a short time. It is generally thought of  as one of, if not the first viral film property.
+
+==Plot summary==
+ air traffic middle finger police helicopters surrounding the scene.
+
+==Production==
+The film took three and a half months to make. The real footage, consisting of the actors in still vehicles, was shot in one weekend with an hour of pick-ups later. The post production and visual effects were completed later on by the two filmmakers in their spare time. All of the shots outside of the Jeep are entirely computer generated three-dimensional models. The actors were shot in vehicles similar to the ones in the film but the exterior shots of the vehicles, the jet, the highway and background scenery in the film are composed of composited images from still photographs and video applied to three-dimensional models created in computer modeling software. About 50% of the shots in the interior of the Jeep are digital effects.
+
+==The filmmakers==
+Branit and Hunt taught themselves the use of visual effects software before working as professionals. Both had been working as visual effects artists for a few years before making 405. While Hunt had a degree in filmmaking the use of digital effects software was not commonly taught in school at that time.
+
+==Technical specs==
+The camera used to make the film was a Canon Optura, a type of digital video camera. The effects were done on a Pentium II and Pentium III computer. The software used was LightWave 3D, Digital Fusion, and Adobe Premiere.
+
+==Significance==
+405 is significant as an early example of the revolution in digital filmmaking and the use of broadband internet as a channel to distribute media. While the producers shot the film using a digital camcorder and created the special effects using personal computers, all on a budget of $300, the results rivalled that of many major film and television production studios at the time. Furthermore, $140 of the budget was to pay two tickets for walking on the highway shoulder while filming. It was issued to them by California Highway Patrol Officer Dana Anderson (who is listed in the "Special Thanks" section of the credits). At the same time, with little promotional effort the film soon reached millions of online viewers through widespread internet access. By July it was featured on the site iFilm where it had received two million viewers. {{cite web url = http://www.imdb.com/news/sb/2000-10-13 publisher =internet movie database title = CAA as well as A Band Apart. They appeared on The Today Show, Access Hollywood, Roger Ebert, Extra and many more news shows and publications.
+
+==References==
+ 
+
+==External links==
+*  
+*  
+
+ 
+ 

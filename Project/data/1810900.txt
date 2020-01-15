@@ -1,0 +1,74 @@
+The Adventures of André and Wally B.
+{{Infobox film
+| name           = The Adventures of André and Wally B.
+| image          = The Adventures of André and Wally B. poster.jpg
+| image size     = 
+| alt            = Poster for The Adventures of André and Wally B.
+| caption        = Film poster
+| director       = Alvy Ray Smith
+| writer         = Alvy Ray Smith  (concept) 
+| screenplay     = 
+| story          =
+| based on       = 
+| narrator       = 
+| starring       = 
+| music          = 
+| cinematography = 
+| editing        =  The Graphics Group
+| distributor    = Lucasfilm
+| released       =  
+| runtime        = 2 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = 
+}}
+ animated short short made The Graphics computer animated project with Lucasfilm and as a result of the success of this project and others would become an important executive at Pixar.  The animation was groundbreaking by the standards of the time and helped spark the film industrys interest in computer animation. The film was released on July 25, 1984, at SIGGRAPH in Minneapolis.   
+
+==Plot==
+The short involves a character named André being awakened in a forest by a pesky bee named Wally B. André distracts the bee so that he can run away. Wally B. chases André and eventually catches up with him, then stings him offscreen.  Wally B. later reappears with a bent stinger. Soon, though, Wally B. gets hit by Andrés tossed hat as a last laugh.
+
+==Production== Bill Reeves, Rob Cook, Loren Carpenter, Ed Catmull, David Salesin, Tom Porter, and Sam Leffler, filming by David DiFrancesco, Tom Noggle, and Don Conway, and computer logistics by Craig Good. The title is a tribute to the 1981 film My Dinner with Andre, starring Andre Gregory and Wallace Shawn. It was originally entitled My Breakfast with André, about waking up with an android. 
+ CG animation Cray X-MP/48 supercomputer and ten VAX-11|VAX-11/750 superminicomputers from Project Athena.
+
+==Release== pencil test line drawings over the completed backgrounds.  The final rendering of the film was released a month later, on August 17 at Torontos International Animation Festival. 
+
+It was released for home video in the collections State of the Art of Computer Animation,  Tiny Toy Stories, and Pixar Short Films Collection, Volume 1 (DVD/Blu-ray). 
+
+==See also==
+*List of Pixar shorts
+*Pixar
+*Walt Disney Pictures
+*Imaginaria
+
+==References==
+ 
+
+== External links ==
+*  
+*   at Alvy Ray Smith
+*  
+*  
+*  
+
+ 
+{{succession box
+ | before = — short films
+ | years  = 1984
+ | after  = Luxo Jr.}}
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

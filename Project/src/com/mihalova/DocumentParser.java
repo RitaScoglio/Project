@@ -25,7 +25,6 @@ public class DocumentParser {
         }
 
         return ret;
-
     }
 
     //converts each line in sequence of words

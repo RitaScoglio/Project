@@ -14,7 +14,6 @@ public class EuclideanDistance{
                 sum += Math.pow(v1 - v2, 2);
             }
         }
-
         return Math.sqrt(sum);
     }
 }

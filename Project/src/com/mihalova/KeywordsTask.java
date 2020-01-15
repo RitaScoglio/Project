@@ -87,7 +87,6 @@ public class KeywordsTask implements Runnable {
 
 		phaser.arriveAndDeregister();
 		System.out.println("Thread " + name + " has finished.");
-
 	}
 
 	private synchronized void addGlobalKeyword(Word word) {

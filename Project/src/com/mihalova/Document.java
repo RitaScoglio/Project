@@ -49,7 +49,6 @@ public class Document {
         return fileName+": "+vocabulary.size();
     }
 
-
     public void setKeywords(HashMap<String, Double> commonWords) {
         this.commonWords = commonWords;
     }

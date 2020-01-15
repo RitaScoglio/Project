@@ -63,7 +63,6 @@ public class KeywordExtraction {
         }
 
         System.out.println("Is Terminated: " + phaser.isTerminated());
-
         System.out.println("Vocabulary Size: " + globalVoc.size());
         System.out.println("Number of Documents: " + numDocuments);
 

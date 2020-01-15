@@ -1,0 +1,77 @@
+Spooked (film)
+ 
+ 
+{{Infobox film
+| name               = Spooked
+| image              = Spooked (film).jpg
+| caption            =
+| writer             = Geoff Murphy Peter Elliot
+| director           = Geoff Murphy
+| editing            = Michael J. Horton
+| production_company = New Zealand Film Commission
+| distributor        = New Zealand Film Commission
+| released           =  
+| runtime            = 94 minutes
+| country            = New Zealand
+| language           = English
+| budget             = $1,000,000
+}}
+ New Zealand Ian Wisharts novel The Paradise Conspiracy, which itself is based on actual events in New Zealand. Partly funded by the New Zealand Film Commission, Spooked had its first screenings in the market at  the 2004 Cannes Film Festival where it was first reviewed. {{
+cite web
+| first      = Scott | last = Foundas | date = 15 June 2004
+| title      = Reviews - Spooked
+| work       = Variety Reviews | publisher = variety.com
+| url        = http://www.variety.com/review/VE1117924131?refcatid=31
+| accessdate = 31 January 2011
+}}  
+The film performed poorly at the box office after some negative reviews
+despite its cast of prominent New Zealand actors. {{
+cite web
+| first      = Anne | last = Beston | date = 26 February 2005
+| title      = Audiences spooked as film flops
+| work       = New Zealand Herald | publisher = APN Holdings
+| url        = http://www.nzherald.co.nz/organisation/story.cfm?o_id=300&objectid=10112744
+| accessdate = 7 August 2010
+}} 
+
+== Plot ==
+
+Investigative journalist Mort Whitman (Cliff Curtis) is onto the story of his lifetime, the most important story in the nation. It was huge involving a big pay-off from a multinational bank to a second-hand computer dealer Kevin Jones (Christopher Hobbs). Tracing the days leading up to Kevins suspicious death, Mort reveals Kevins increasing paranoia and erratic behaviour through the eyes of his best mate Jimmy Blick (John Leigh) and girlfriend Ruby Elder (Miriama Smith). What dangerous secrets had he stumbled upon? Did the forces - private security, police, SIS or CIA - that increasingly menaced his life, kill him? Or did he simply drink too much and crash his car? Mort is determined to get to the bottom of it, if it kills him.
+
+Tagline: These people play by their own rules.
+
+== Cast ==
+
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor !! Role
+|-
+| Cliff Curtis || Mort Whitman
+|- Christopher Hobbs || Kevin Jones
+|-
+| Ian Mune || Dave Johnson
+|-
+| Miriama Smith || Ruby Elder
+|- Peter Elliot || Randy Fox
+|-
+| Alison Bruce || Sheila Miller
+|-
+|}
+
+== References ==
+ 
+
+==External links==
+* 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 

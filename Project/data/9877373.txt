@@ -1,0 +1,84 @@
+The Lightning Express
+{{Infobox film
+| name           = The Lightning Express
+| image          =
+| caption        =
+| director       = Henry MacRae
+| producer       =
+| writer         =
+| narrator       =
+| starring       =
+| music          =
+| cinematography =
+| editing        =
+| distributor    = Universal Pictures
+| released       =  
+| runtime        = 10 chapters (220 minutes)
+| country        = United States English
+| budget         =
+}} Universal Serial film serial.
+
+==Production==
+The Lightning Express was based on "Whispering Smith Speaks" by Frank H. Spearman. {{cite book
+ | last = Cline
+ | first = William C.
+ | title = In the Nick of Time
+ | year = 1984
+ | publisher = McFarland & Company, Inc.
+ | isbn = 0-7864-0471-X
+ | pages = 10
+ | chapter = 2. 
+ }} 
+
+==Chapter titles==
+# A Shot in the Dark
+# A Scream of Terror
+# Dangerous Rails
+# The Death Trap
+# Tower of Terror
+# A Call for Help
+# The Runaway Freight
+# The Showdown
+# The Secret Survey
+# Cleared Tracks
+ Source:  {{cite book
+ | last = Cline
+ | first = William C.
+ | title = In the Nick of Time
+ | year = 1984
+ | publisher = McFarland & Company, Inc.
+ | isbn = 0-7864-0471-X
+ | pages = 201
+ | chapter = Filmography
+ }} 
+
+==See also==
+* List of film serials by year
+* List of film serials by studio
+
+==References==
+ 
+
+==External links==
+* 
+
+ 
+{{succession box  Universal Serial Serial 
+| before=The Jade Box (1930)
+| years=The Lightning Express (1930)
+| after=Terry of the Times (1930)}}
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 

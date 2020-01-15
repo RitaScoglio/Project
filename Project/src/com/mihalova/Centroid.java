@@ -13,6 +13,7 @@ public class Centroid {
     public HashMap<String, Double> getCoordinates() {
         return coordinates;
     }
+
 }
 
 

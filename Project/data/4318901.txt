@@ -1,0 +1,378 @@
+Kekko Kamen
+{{Infobox animanga/Header
+| name            = Kekko Kamen
+| image           =  
+| caption         = Cover of the first tankōbon volume of Kekko Kamen, as published by Shueisha in 1976
+| ja_kanji        = けっこう仮面
+| ja_romaji       = Kekkō Kamen Superhero
+}}
+{{Infobox animanga/Print
+| type            = manga
+| author          = Go Nagai
+| publisher       = Shueisha
+| demographic     = Shōnen manga|Shōnen
+| magazine        = Monthly Shōnen Jump
+| first           = September 1974
+| last            = February 1978
+| volumes         = 5
+| volume_list     =
+}}
+{{Infobox animanga/Video
+| type            = ova
+| director        = Nobuhiro Kondo (ep. 1) Kinji Yoshimoto (ep. 2)
+| producer        =
+| writer          = Masashi Sogo
+| music           = Keiju Ishikawa
+| studio          = Nippon Columbia Studio Signal Dynamic Planning
+| licensee        =  
+| first           = August 1, 1991
+| last            = March 1, 1992
+| runtime         = 44 minutes
+| episodes        = 2
+| episode_list    =
+}}
+{{Infobox animanga/Video
+| type            = live film
+| director        = Hikari Hayakawa
+| producer        = Naokatsu Ito   Ken Urasaki
+| writer          = Hikari Hayakawa
+| music           =
+| studio          = Japan Home Video
+| released        = March 22, 1991
+| runtime         = 60 minutes
+}}
+{{Infobox animanga/Print
+| type            = light novel
+| title           = Shosetsu Kekko Kamen
+| author          = Masashi Sogo
+| illustrator     = Go Nagai
+| publisher       = Asahi Sonorama
+| demographic     =
+| label           = Sonorama Bunko
+| published       = May 1991
+}}
+{{Infobox animanga/Video
+| type            = live film
+| title           = Kekko Kamen 2: Well be back...
+| director        = Yutaka Akiyama
+| producer        = Naokatsu Ito
+| writer          = Yutaka Akiyama
+| music           = Masaya Abe
+| studio          = Japan Home Video
+| released        = March 27, 1992
+| runtime         = 80 minutes
+}}
+{{Infobox animanga/Video
+| type            = live film
+| title           = Kekko Kamen 3
+| director        = Yutaka Akiyama
+| producer        = Naokatsu Ito   Toji Kato   Gunya Sachimori
+| writer          = Yutaka Akiyama
+| music           = Masaya Abe
+| studio          = Japan Home Video
+| released        = April 23, 1993
+| runtime         = 95 minutes
+}}
+{{Infobox animanga/Print
+| type            = manga
+| title           = Kekko Kamen P
+| author          = Go Nagai (original work) Shigemitsu Harada
+| illustrator     = Seiju Minato
+| publisher       = Kodansha
+| demographic     = Seinen manga|Seinen
+| magazine        = Weekly Young Magazine
+| first           = 2003
+| last            = 2004
+| volumes         = 2
+| volume_list     =
+}}
+{{Infobox animanga/Video
+| type            = live film
+| director        = Takafumi Nagamine
+| producer        = Shin Yoneyama   Shigeyuki Fukushima (associate producer)   Junichi Matsushita (executive producer)
+| writer          = Yuki Okano
+| music           = Mari Shimizu
+| studio          = Art Port
+| licensee        =  
+| released        = February 6, 2004
+| runtime         = 70 minutes
+}}
+{{Infobox animanga/Video
+| type            = live film
+| title           = Kekko Kamen: Mangriffon no Gyakushu
+| director        = Takafumi Nagamine
+| producer        = Shin Yoneyama   Shigeyuki Fukushima   Junichi Matsushita
+| writer          = Yuki Okano   Keiichi Sakano
+| music           = Mari Shimizu
+| studio          = Art Port
+| licensee        =  
+| released        = July 23, 2004
+| runtime         = 70 minutes
+}}
+{{Infobox animanga/Video
+| type            = live film
+| title           = Kekko Kamen Returns
+| director        = Takafumi Nagamine
+| producer        = Shin Yoneyama   Shigeyuki Fukushima   Junichi Matsushita
+| writer          = Yuki Okano
+| music           = Mari Shimizu
+| studio          = Art Port
+| licensee        =  
+| released        = October 31, 2004
+| runtime         = 70 minutes
+}}
+{{Infobox animanga/Video
+| type            = live film
+| title           = Kekko Kamen Surprise
+| director        = Takafumi Nagamine
+| producer        = Shin Yoneyama   Shigeyuki Fukushima   Junichi Matsushita
+| writer          = Yuki Okano
+| music           = Mari Shimizu
+| studio          = Art Port
+| licensee        =  
+| released        = October 31, 2004
+| runtime         = 70 minutes
+}}
+{{Infobox animanga/Video
+| type            = live film
+| title           = Kekko Kamen Royale
+| director        = Kosuke Suzuki
+| producer        = Junichi Matsushita
+| writer          = Rui Tsubota
+| music           = Koji Endo
+| studio          = Art Port
+| released        = May 25, 2007
+| runtime         = 70 minutes
+}}
+{{Infobox animanga/Video
+| type            = live film
+| title           = Kekko Kamen Premium
+| director        = Kosuke Suzuki
+| producer        = Junichi Matsushita
+| writer          = Rui Tsubota
+| music           = Koji Endo
+| studio          = Art Port
+| released        = June 22, 2007
+| runtime         = 72 minutes
+}}
+{{Infobox animanga/Video
+| type            = live film
+| title           = Kekko Kamen Forever
+| director        = Kosuke Suzuki
+| producer        = Junichi Matsushita
+| writer          = Rui Tsubota
+| music           = Koji Endo
+| studio          = Art Port
+| released        = July 27, 2007
+| runtime         = 70 minutes
+}}
+ 
+
+  is a Japanese manga series written and illustrated by Go Nagai. It was serialized in Monthly Shōnen Jump from September 1974 to February 1978, with the chapters collected into five tankōbon volumes by Shueisha. 
+ titular Kekko Kamen. The manga has spawned an original video animation series and numerous live-action films. In North America, the OVAs were released by ADV Films, while several of the films were published by different distributors.
+
+==Plot==
+First-year student Mayumi Takahashi attends a junior high school called  , where the penalty for any student (usually girls) making the slightest mistake is being sexually humiliated by the perverted, corrupt and misogynistic teachers running the school, the principal being a demonic, jester-like villain named "Toenail of Satan". However, before the teachers can take their sexual advances too far, Kekko Kamen steps in and delivers a sound beating to the teachers, and usually performs a finishing attack by jumping into the air and landing crotch-first onto her opponents face.
+
+==Characters==
+;  nunchuks and bo staff. Her finishing move, the  , involves her leaping into the air, spreading her legs, and landing Vagina|groin-first on her typically male opponents face, which knocks him out. The possibility of an outside intruder is ruled out, and the principal and faculty thus conclude that one of the students is the masked heroine. 
+: 
+
+; 
+:A first year student at the Sparta Academy. Mayumi is an innocent and good natured girl, but her failure to meet the schools high academic standards the often land her in the schools torture chamber, where she is subjected to humiliating punishments. However, before the teachers are about to completely violate her, Kekko Kamen always manages to burst in and save the day. Her heroines constant rescuing of her has filled Mayumi with a deep amount of affection for her, but she is often used by the principal and faculty as bait to lure Kekko Kamen into a trap.
+: 
+
+;  perverted and sexually humiliating the female student body, especially Mayumi Takahashi. This brings him into conflict with Kekko Kamen, whose secret identity he wishes to uncover, and who he wants to destroy. To accomplish this, he exhorts various punishment councillors into publicly humiliate Takahashi, using her as bait to bring the naked warrior of justice out in the open, but she always defeats him.
+: 
+
+; 
+:A perverted, insane, abusive, Sadistic personality disorder|sadistic, mad scientist teacher who works for Toenail of Satan. He always punishes Mayumi Takahashi for her substandard grades, but always gets defeated by Kekko Kamen every time he attempts to do so.
+: 
+
+; 
+:A shy, introverted second year student. When Mayumi sees her bare body during an examination intended to unmask Kekko Kamen, her reaction shows that she believes Chigusa is Kekko Kamen, and the principal and faculty move against Chigusa, but Chigusa is ruled out as a suspect when Kekko Kamen appears and taunts the principal and the faculty. However, Chigusa actually does have a secret&mdash;she is actually two people, the twins Chigusa and Yuka. When their secret is discovered, the twins are tortured and accused of being Kekko Kamen, but they are again cleared of suspicion when Kekko Kamen arrives to save them and Mayumi.
+: 
+
+; 
+:A tough, popular Physical Education teacher, and an expert at various styles of fighting techniques, sports, and with many types of weapons&mdash;this caused the principal to suspect that she was actually Kekko Kamen, and began to humiliate her. She ceased being a suspect when Kekko Kamen jumped in to rescue her.
+
+; 
+:A supposedly first year male student, who is in the same class as Mayumi. However, another student uncovered that "he" was actually a female in disguise. This prompted the Principal to believe that she was Kekko Kamen. When her true gender was unveiled, Keiko suddenly rushed in to save her, and confessed that she was Koichis older sister. Both sisters were then tortured until Kekko Kamen came to their rescue. After this revelation, Koichi continued to be a valuable friend and ally to Mayumi.
+
+; 
+:A young student who is positively infatuated with Kekko Kamen, and is inspired to become a heroine of justice herself. So, armed with a rapier, she becomes the mostly nude, caped, swashbuckling hero with a ribbon covering her crotch known as  . However, on her first attempt to combat the evil of the school, Ai finds herself in danger. Fortunately, Kekko Kamen comes to her rescue. After this incident, Ai continued to appear sporadically throughout the manga as a supporting character.
+
+; 
+:The very attractive school nurse. After Kekko Kamens thigh is injured in a battle, the villain traces her to the infirmary, and confronts Kaori, ripping off her clothing in an attempt to find the scar, only to realize it wasnt there. Kekko Kamen then appeared with a bandage on, rescuing her, and eliminating her as a suspect.
+
+; 
+:A red-haired, chain smoking, tough as nails third year student and gang leader who makes sure everyone knows their place when dealing with her, and hardly comes to class. When seeing Kei walking away from her, Mayumi is reminded of someone else, but she quickly dismisses the thought.
+
+==Production== headscissors takedown which presses her groin into the victims face.
+ Gekko Kamen. archiveurl = archivedate = August 22, 2008 | quote = A la base, Kekko Kamen est une parodie de Gekko Kamen. Cétait une blague, et je lavais envoyé à mon éditeur en pensant quil refuserait; sauf quil a adoré, et que la blague dure depuis 30 ans.
+}}  As well as the similarity in name, both Kekko Kamen  s and Gekko Kamen  s true identity is never revealed. Even the name of the main antagonist is a parody: in Gekko Kamen it is   while in Kekko Kamen it is  . The theme song for the Kekko Kamen character, uses the same lyrics for the theme song to Moonlight Mask, but with changes.
+
+==Media==
+
+===Manga===
+Kekko Kamen was originally serialized in Shueishas magazine Monthly Shōnen Jump, from   to  .            
+
+The series has been compiled several times by Shueisha and other publishers.    It is also available in ebook format, published by ebookjapan.    The manga was published in two volumes in Italy by d/visual, on December 22, 2006 and July 30, 2010.
+
+;Shueisha (Jump Comics, 1976–1978)
+{| class="wikitable"
+| Vol. || Release date || ISBN
+|-
+| 1 ||   ||  
+|-
+| 2 ||   ||  
+|-
+| 3 ||   ||  
+|-
+| 4 ||   ||  
+|-
+| 5 ||   ||  
+|}
+;Shueisha (Jump Comics Deluxe, 1990)
+{| class="wikitable"
+| Vol. || Release date || ISBN
+|-
+| 1 ||   ||  
+|-
+| 2 ||   ||  
+|-
+| 3 ||   ||  
+|}
+;Kadokawa Shoten (Kadokawa Bunko, 1996)
+{| class="wikitable"
+| Vol. || Release date || ISBN
+|-
+| 1 ||   ||  
+|-
+| 2 ||   ||  
+|-
+| 3 ||   ||  
+|}
+;Kodansha (Kodansha Comics Deluxe, 2003)
+{| class="wikitable"
+| Vol. || Release date || ISBN
+|-
+| 1 ||   ||  
+|}
+;Leed Publishing (SP Comics, 2004)
+{| class="wikitable"
+| Vol. || Release date || ISBN
+|-
+| 1 ||   ||  
+|-
+| 2 ||   ||  
+|}
+
+===Original video animation===
+A four-episode original video animation adaptation of Kekko Kamen was created by Studio Signal and released by Nippon Columbia on two VHS tapes in 1991 and 1992.   A DVD collection was released on April 21, 2001.        The first two episodes were directed by Nobuhiro Kondo and the second two by Kinji Yoshimoto. The opening theme song is   which Go Nagai wrote for the manga, with composition and arrangement by Keiju Ishikawa, and sung by Emi Shinohara. The ending theme is   written by Hiroshi Koenji, composed and arranged by Keiju Ishikawa, and sung by Emi Shinohara.            
+ dubbed English audio.    ADV Films has also re-released Kekko Kamen in bundled DVD packages with other anime; Cutey Honey/Kekko Kamen on April 1, 2008, and Puni Puni Poemy/Kekko Kamen on April 21, 2009.       The OVA was also released in a dubbed version in Italy on VHS by Dynamic Italia in 2000 under the name Kekko Kamen: La maschera libidinosa.      
+
+;Episodes
+{|class="wikitable"
+|-
+! # !! Title !! Original release date !!| English release date
+|-
+{{Japanese episode list
+ | EpisodeNumber = 1
+ | EnglishTitle = Here I Am: The Messenger of Love and Justice!!
+ | KanjiTitle = 愛と正義の使者参上!!
+ | RomajiTitle = Ai to Seigi no Shisha Sanjō!!
+ | OriginalAirDate =  
+ | FirstEngAirDate =  
+}}
+{{Japanese episode list
+ | EpisodeNumber =2
+ | EnglishTitle = Crash!! Kekko Kamen vs Muscular Monster
+ | KanjiTitle = 激突!!けっこう仮面VS筋肉モンスター
+ | RomajiTitle = Kekitotsu!! Kekkō Kamen vs Kinniku Monster
+ | OriginalAirDate =  
+ | FirstEngAirDate =  
+}}
+{{Japanese episode list
+ | EpisodeNumber =3
+ | EnglishTitle = Mystery! The Legend of the Evil Android!!
+ | KanjiTitle = 怪奇!悪魔の人造人間伝説!!
+ | RomajiTitle = Kaiki! Akuma no Jinzōningen Densetsu!!
+ | OriginalAirDate =  
+ | FirstEngAirDate =  
+}}
+{{Japanese episode list
+ | EpisodeNumber =4
+ | EnglishTitle = Crisis! Kekko Kamen Only Lives Twice!!
+ | KanjiTitle = 危機一発!けっこう仮面は二度死ぬ!!
+ | RomajiTitle = Kiki Ippatsu! Kekkō Kamen wa Nido Shinu!!
+ | OriginalAirDate =  
+ | FirstEngAirDate =  
+}}
+|}
+
+===Live-action films===
+There have been eleven live-action films based on Kekko Kamen. Go Nagai has been intricately involved in the production of the films. The first three movies and the three from 2006 were released in direct-to-video format, while films four through seven and eleven were theatrically released in Japan. The first four theatrical films were released on DVD in North American by Media Blasters Tokyo Shock label beginning in 2005. 
+
+* Kekko Kamen (けっこう仮面)(1991)
+* Kekko Kamen 2 (けっこう仮面２)(1992)
+* Kekko Kamen 3 (けっこう仮面３)(1993)
+* Kekko Kamen: Mask of Kekkou (けっこう仮面 MASK OF KEKKOU)(2003) also known in English as Kekko Kamen New
+* Kekko Kamen: Mangriffon no Gyakushu (けっこう仮面 マングリフォンの逆襲)(2003) known in English as Kekko Kamen: The MGF Strikes Back
+* Kekko Kamen Returns (けっこう仮面 RETURNS)(2004)
+* Kekko Kamen Surprise (けっこう仮面 SUPRISE)(2004)
+* Kekko Kamen Royale (けっこう仮面 ロワイヤル)(2006)
+* Kekko Kamen Premium (けっこう仮面 プレミアム)(2006)
+* Kekko Kamen Forever (けっこう仮面 フォーエバー)(2006)
+* Kekko Kamen Reborn  (けっこう仮面 新生)(2012)
+
+===Sequels===
+  is a manga series written by Shigemitsu Harada and illustrated by Seiju Minato and published in Weekly Young Magazine from 2003 to 2004. The chapters were collected into two tankōbon volumes by Kodansha on May 6 and July 6, 2004. It is a sequel to the original series, where several years have passed since the events depicted in the first manga. Momoka Nogami discovers the legend of the original Kekko Kamen and decides to emulate her actions donning a similar costume, adding a peach motif, and so she becomes Kekko Kamen Peach. Other Kekko also appear, Kekko Kamen Lemon and Kekko Kamen Melon, and even a male version called Kekko Kamen Banana.
+
+A special story called  , written by Shinobu Inokuma with co-operation from Nagai, was published in Business Jump in June 2011. It takes place many years after the original manga where a new Kekko Kamen, whose secret identity is a new teacher in a new school owned by the remaining factions of the Toenail of Satan, protects young female students from the evil members of the organisation unfortunately one of them catches her. She is held prisoner until the original Kekko Kamen rescues her and they both defeat him, with the original telling her successor that some of the remains of the Toenail of Satan may have spread all over the world and that she will keep on fighting alone but she was proud of her successor that if shes gone she and her successors after her will always protect the young female women from evil by using her namesake.  
+
+A one-shot crossover featuring Go Nagais Kekko Kamen and Mazinger Z characters was written by Takeshi Okano and published in Grand Jump on January 16, 2013. 
+
+==Reception ==
+Stig Høgset of Them Anime Reviews gave the Kekko Kamen OVAs two out of five stars, called the art passable, and clarified that while the jokes are smutty, they never get offensive. 
+
+Reviewing for Anime News Network, Theron Martin wrote "Kekko Kamen is great (if nonsensical) fun as long as youre an adult who can appreciate oodles of fan service and raunchy, sometimes utterly tasteless, humor." He cited the humor as a highlight, but felt the production values were mediocre. 
+
+Martin gave a much more negative review of the live action Kekko Kamen: Mask of Kekkou (also known as Kekko Kamen New), saying it came off as "exploitive and cruel rather than the campy, whimsical work it should have been." He called the writing amateurish and the acting even worse. 
+
+Angel Blade is a hentai parody OVA of Kekko Kamen produced in the Vanilla Series.
+ heavy metal 2010 Mayhem Festival tour during the song "Never Gonna Stop (The Red Red Kroovy)".
+
+==References==
+ 
+
+==External links==
+*   at the World of Go Nagai fansite  
+*  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

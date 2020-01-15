@@ -1,0 +1,35 @@
+Hombres a precio
+{{Infobox film
+| name           =Hombres a precio
+| image          =
+| image_size     =
+| caption        =
+| director       =
+| producer       =
+| writer         =
+| narrator       =
+| starring       =
+| music          =
+| cinematography =
+| editor       =
+| distributor    =
+| released       = 1950
+| runtime        =
+| country        = Argentina Spanish
+| budget         =
+}}
+ 1950 Argentina|Argentine film.
+
+==Cast==
+ 
+
+==External links==
+*  
+
+ 
+ 
+ 
+ 
+ 
+
+ 

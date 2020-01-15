@@ -1,0 +1,56 @@
+On Line
+ 
+{{Infobox film
+| name        = On_Line
+| italic title= no 
+| image       = ON LINE 2002 film-poster.jpg
+| caption     = Promotional poster for the film
+| director    = Jed Weintrob
+| writer      = Andrew Osborne Jed Weintrob Josh Hamilton Harold Perrineau Vanessa Ferlito Eric Millegan
+| distributor = Indican Pictures MGM
+| released    =  
+| runtime     = 97 minutes
+| country     = United States
+| language    = English
+}} 
+On_Line is a 2002 American drama film directed by Jed Weintrob and executive produced by Richard D. Titus and Tavin Marin Titus. The film was selected to world premiere at the Sundance Film Festival and was released theatrically, on DVD and television worldwide.
+
+==Plot== Josh Hamilton) adult internet site named InterconX where Jordan Nash (Vanessa Ferlito) is one of their stars. John has recently gone through a disastrous break-up with his engagement|fiancé, and is now obsessed with a woman named Angel, who lives her life on 24 hour webcam. A handful of people whose lives revolve around internet relationships at an adult web site become entangled in person in this comedy/drama.
+
+==Cast== Josh Hamilton as John Roth
+* Harold Perrineau as Moe Curley
+* Isabel Gillies as Moira Ingalls John Fleck as Al Fleming
+* Vanessa Ferlito as Jordan Nash
+* Eric Millegan as Ed Simone
+* Liz Owens as Angel
+
+==Transmedia== transmedia experience was created by Christian D. Bruun, with development starting in 1999. Programming was assisted by Steven Osit and Kate Schaffer.
+
+The technological implementations have several components. 
+:During production /on set:
+:*Filming and recording four to six cameras simultaneously on two separate locations or sets. This set-up included two-way live video feeds embedded real-time in an interactive interface. The cameras included DV cameras (SONY PD-150 pal, Sony TRV900) and a variety of USB and FireWire web cameras. Tim Dorcy and his iVisit software were consulted.
+
+:Internet:
+:*All the websites created and used in the film were also made available on the internet.
+:*Extending the reach and universe of the film beyond the movie going experience. This included making the featured websites available online for the audience to explore the back stories as well as future developments of the characters in the film. This meant that the websites had to reflect each characters or mimic the social environment in which it existed.
+:Featured sites:
+:*SilentCity.net. This is the main characters web video diary (a precursor to Blogs and Vlogs). New videos featuring Andrew Osborne as the online version of John Roth was regularly uploaded. These videos both preceded the film but also continued Joes life after the film ended.
+:*AngelCam.org. AngelCam is a 24/7 online website of webcam girl Angel. On her web site we can watch what John is watching in the film and read about Angels daily activities. For a while the site was truly live as real life web cam girl Liz Owens camera feed was streamed through the site. The site was loosely inspired by the phenomenon of JenniCam.
+:*FinalExit.net is a goth / suicide website where Moira Ingalls and Ed Simone meet.
+:*InterCon-X.com is an adult web cam service designed to enable both professionals and amateurs to connect, watch and talk to each other.
+
+:Viral video:
+:*The marketing of the film utilizing the websites and viral video clips. The clips could be emailed as well as transferred and shared on Palm OS devices. Initially launched at the Sundance Film Festival the clips was an early example of digital video viral marketing.
+
+==External links==
+*  
+*  
+*  
+*  
+
+ 
+ 
+ 
+ 
+ 
+ 

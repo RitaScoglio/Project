@@ -1,0 +1,36 @@
+El retrato
+{{Infobox film
+| name           =El Retrato
+| image          =
+| image_size     =
+| caption        =
+| director       =
+| producer       =
+| writer         =
+| narrator       =
+| starring       =
+| music          =
+| cinematography =
+| editor       =
+| distributor    =
+| released       = 1947
+| runtime        =
+| country        = Argentina Spanish
+| budget         =
+}}
+ 1947 Argentina|Argentine film.
+
+==Cast==
+ 
+
+==External links==
+*  
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 

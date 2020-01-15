@@ -13,7 +13,6 @@ public class KMeans {
     public static HashMap<Centroid, List<Document>> fit(List<Document> docs,
                                                         int k,
                                                         int maxIterations) {
-
         List<Centroid> centroids = randomCentroids(docs, k);
         HashMap<Centroid, List<Document>> clusters = new HashMap<>();
         HashMap<Centroid, List<Document>> lastState = new HashMap<>();

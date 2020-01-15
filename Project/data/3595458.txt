@@ -1,0 +1,64 @@
+Wild Animals
+ 
+{{Infobox film
+| name = Wild Animals
+| image = Wild Animals Poster.jpg
+| caption = Wild Animals Promotional Movie Poster
+| director = Ki-duk Kim
+| producer = Kwon Ki-yeong   Park Kwang-su
+| writer = Ki-duk Kim
+| starring = Cho Jae-hyun   Jang Dong-jik   Jang Ryun
+| music = Kang In-gu   Oh Jin-ha
+| cinematography = Seo Jeong-min
+| editing = Park Seon-deok
+| distributor = Dream Cinema
+| released =  
+| runtime = 
+| country = South Korea
+| language = Korean
+| budget = 
+| film name      = {{Film name
+ | hangul =    
+ | hanja =    
+ | rr = Yasaeng dongmul bohoguyeog
+ | mr = Yasaeng tongmul pohoguyŏg}}
+}} Kim Ki-duks Ryun Jang.
+
+== Cast ==
+{| class="wikitable"
+|-
+!Actor
+!Role
+|-
+| Cho Jae-hyun || Cheong-hae
+|-
+| Jang Dong-jik || Hong-san
+|-
+| Jang Ryun || Laura
+|-
+| Sasha Rucavinaa || Corrine
+|-
+| Richard Bohringer || Boss
+|-
+| Denis Lavant || Emil
+|-
+| Laurent Buro || Pare
+|-
+|}
+
+== External links ==
+ 
+*  
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
