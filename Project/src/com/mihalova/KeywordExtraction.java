@@ -70,7 +70,7 @@ public class KeywordExtraction {
         HashMap<Centroid, List<Document>> lastCentroid = new HashMap<>();
         System.out.println(allDocuments.size());
 
-        lastCentroid = KMeans.fit(allDocuments, globalKeywords, 5, 5);
+        lastCentroid = KMeans.fit(allDocuments, 5, 10);
 
         Collection<List<Document>> docs = lastCentroid.values();
         for (int i = 0; i<docs.size(); i++) {

@@ -11,11 +11,10 @@ public class KMeans {
     private static final Random random = new Random();
 
     public static HashMap<Centroid, List<Document>> fit(List<Document> docs,
-                                                        ConcurrentHashMap<String, Double> globalKeywords,
                                                         int k,
                                                         int maxIterations) {
 
-        List<Centroid> centroids = randomCentroids(docs, k, globalKeywords);
+        List<Centroid> centroids = randomCentroids(docs, k);
         HashMap<Centroid, List<Document>> clusters = new HashMap<>();
         HashMap<Centroid, List<Document>> lastState = new HashMap<>();
 
@@ -44,7 +43,7 @@ public class KMeans {
         return lastState;
     }
 
-    private static List<Centroid> randomCentroids(List<Document> docs, int k, ConcurrentHashMap<String, Double> globalKeywords) {
+    private static List<Centroid> randomCentroids(List<Document> docs, int k) {
         List<Centroid> centroids = new ArrayList<>();
         Map<String, Double> maxs = new HashMap<>();
         Map<String, Double> mins = new HashMap<>();
